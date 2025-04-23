@@ -1,4 +1,4 @@
-# 📊 Análisis de Ventas y Costos de Envío en Tiendas 🏪
+# 📊 DESAFÍO ALURA STORE 🏪
 
 ## 📌 Descripción del Proyecto
 Este proyecto analiza el desempeño de cuatro tiendas mediante el estudio de sus ventas, costos de envío y calificaciones de clientes. La intención es evaluar la viabilidad de vender una de ellas, sin embargo, los datos revelan inconsistencias que ponen en duda la veracidad de la información.
